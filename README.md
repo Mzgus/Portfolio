@@ -17,7 +17,7 @@
 ⚡️ Optimized with Parcel\
 ⚡️ Well organized documentation
 
-To view the demo: **[click here](https://the-simplefolio.netlify.app/)**
+Too view the demo: **[click here](https://the-simplefolio.netlify.app/)**
 
 ---
 
